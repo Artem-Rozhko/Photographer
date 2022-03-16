@@ -1,2 +1,1 @@
-# artem-rozhko-JSFEPRESCHOOL
-Private repository for @artem-rozhko
+#  https://artem-rozhko.github.io/Photographer/
